@@ -42,7 +42,7 @@
 <em>QSS Model Components</em>
 </p>
 
-<h2>Driving Cycles for Testing (in brief)</h2>
+<h2>Driving Cycles for Testing</h2>
 
  - <b>NEDC (New European Driving Cycle):</b> Tests fuel consumption and emission levels.
 <p align="center">

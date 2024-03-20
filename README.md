@@ -81,21 +81,52 @@
 
 <p align="center">
 <img src="NEDCmodes.png" width="90%" alt="Rule-based strategy on NEDC"/><br>
-<em>Figure: Rule-based strategy applied on NEDC</em>
+<em>Figure: Rue-base driving modes for NEDC</em>
 </p>
 <p align="center">
 <img src="FTP-75modes.png" width="90%" alt="Rule-based strategy on FTP-75"/><br>
-<em>Figure: Rule-based strategy applied on FTP-75</em>
+<em>Figure: Rue-base driving modes for FTP-75</em>
+</p>
+
+<h2>Torque Output</h2>
+<p align="center">
+<img src="NEDCtorque.png" width="90%"/><br>
+<em>Figure: Torque for NEDC</em>
+</p>
+<p align="center">
+<img src="FTP-75torque.png" width="90%"/><br>
+<em>Figure: Torque for FTP-75</em>
+</p>
+
+<h2>State of Charge (SoC)</h2>
+<p align="center">
+<img src="NEDCsoc.png" width="90%"/><br>
+<em>Figure: Battery SoC for NEDC</em>
+</p>
+<p align="center">
+<img src="FTP-75soc.png" width="90%"/><br>
+<em>Figure: Battery SoC for FTP-75</em>
 </p>
 
 <h2>Optimization of Parameters</h2>
-<h2>Optimal Parameters</h2>
 
-- <b>Torque threshold for LPS in motor mode (TED,max):</b> 33 Nm
-- <b>Torque threshold for LPS in generator mode (TLPS,gen,th):</b> 34 Nm
-- <b>Torque threshold for Electric mode (TED,th):</b> 29 Nm
-- <b>Velocity threshold for Electric mode (wMGB,th):</b> 300 rad/s
-- <b>Maximum torque-split factor for LPS (uLPS,max):</b> 0.01
+| Parameter                                       | Optimal Value |
+|-------------------------------------------------|---------------|
+| Torque threshold for LPS in motor mode (TED,max)      | 33 Nm         |
+| Torque threshold for LPS in generator mode (TLPS,gen,th) | 34 Nm         |
+| Torque threshold for Electric mode (TED,th)            | 29 Nm         |
+| Velocity threshold for Electric mode (wMGB,th)         | 300 rad/s     |
+| Maximum torque-split factor for LPS (uLPS,max)         | 0.01          |
+
+
+<h2>Results</h2>
+
+| Driving Cycle | Combustion Engine | EMS on EHV | Improvement |
+|---------------|-------------------|------------|-------------|
+| NEDC          | 5.572 l/100km     | 3.019 l/100km | 45.81% |
+| FTP-75        | 5.319 l/100km     | 3.111 l/100km | 41.51% |
+
+
 <!--
  ```diff
 - text in red

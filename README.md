@@ -21,6 +21,9 @@
 - <b>Diesel Engine:</b> 66 kW / 180 Nm nominal, 60 kW / 187 Nm measured
 - <b>Electric Motor:</b> 12 kW / 60 Nm
 - <b>Battery:</b> 16.38 kW / 0.468 kWh / 48 V
+<p align="center">
+<img src="pehv.jpg" height="85%" width="45%" alt="PHEV"/>
+</p>
 
 <h2>Model Components</h2>
 
@@ -34,19 +37,19 @@
 - <b>Fuel Tank Model:</b> Calculates fuel consumption based on engine power.
 - <b>Total Equivalent Fuel Consumption Model:</b> Calculates overall fuel consumption from both engine and electric motor power.
 <p align="center">
-<img src="" height="85%" width="85%" alt="Model Components"/>
+<img src="QS.png" height="85%" width="85%" alt="Model Components"/>
 </p>
 
 <h2>Driving Cycles for Testing (in brief)</h2>
 
  - <b>NEDC (New European Driving Cycle):</b> Tests fuel consumption and emission levels.
 <p align="center">
-<img src="" height="85%" width="85%" alt="NEDC (New European Driving Cycle)"/>
+<img src="NEDC.png" height="85%" width="60%" alt="NEDC (New European Driving Cycle)"/>
 </p>
   
  - <b>FTP-75 (Federal Test Procedure):</b> Tests fuel consumption and emissions in various driving conditions including city driving, aggressive driving, and highway driving.
 <p align="center">
-<img src="" height="85%" width="85%" alt="FTP-75 (Federal Test Procedure)"/>
+<img src="ftp-75.png" height="85%" width="60%" alt="FTP-75 (Federal Test Procedure)"/>
 </p>
 
 

@@ -33,6 +33,9 @@
 - <b>Control Unit (Energy Management) Model:</b> Contains logic for engine and electric motor operation.
 - <b>Fuel Tank Model:</b> Calculates fuel consumption based on engine power.
 - <b>Total Equivalent Fuel Consumption Model:</b> Calculates overall fuel consumption from both engine and electric motor power.
+<p align="center">
+<img src="" height="85%" width="85%" alt="Model Components"/>
+</p>
 
 <h2>Driving Cycles for Testing (in brief)</h2>
 

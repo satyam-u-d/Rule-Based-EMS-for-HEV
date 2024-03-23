@@ -2,7 +2,7 @@
 <h1>Rule-based Energy Management System for Hybrid Electric Vehicle</h1>
 
 <h2>Description</h2>
-<b>During a seminar presentation within our curriculum, we devised an Energy Management System for a Hybrid Electric Vehicle (Mercedes-Benz A 170 CDI (W168)) aimed at minimizing fuel consumption through electromobility principles.
+<b>During a seminar presentation within our curriculum, we devised a Rule-based Energy Management System for a Hybrid Electric Vehicle (Mercedes-Benz A 170 CDI (W168)) aimed at minimizing fuel consumption by tuning for optimal selection of operating modes  and electromobility principles for sample test driving cycles.
 </b>
 <br />
 <br />

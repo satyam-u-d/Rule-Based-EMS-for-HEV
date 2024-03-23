@@ -126,6 +126,16 @@
 | NEDC          | 5.572 l/100km     | 3.019 l/100km | 45.81% |
 | FTP-75        | 5.319 l/100km     | 3.111 l/100km | 41.51% |
 
+<h2>References</h2>
+
+- <b>D. Goerges, “Seminar Electromobility (summer term 2022),” May 2022.
+- <b>F. R. Salmasi, ”Control Strategies for Hybrid Electric Vehicles: Evolution, Classification, Comparison, and Future Trends,” in IEEE Transactions on Vehicular Technology, vol. 56, no. 5, pp. 2393-2404, Sept. 2007.
+- <b>H. Banvait, S. Anwar, and Y. Chen, “A rule-based energy management strategy for plug-in hybrid electric vehicle (PHEV),” in 2009 American control conference. IEEE, 2009, pp. 3938–3943.
+- <b>Barthel, Jochen and Gorges, Daniel and Bell, Markus and Munch, Philipp, ”Energy management for hybrid electric tractors combining load point shifting, regeneration and boost”, in 2014 IEEE Vehicle Power and Propulsion Conference (VPPC), 2014, pp. 1-6.
+- <b>Lawler, Benjamin and Ortiz-Soto, Elliott and Gupta, Rohit and Peng, Huei and Filipi, Zoran S, ”Hybrid electric vehicle powertrain and control strategy optimization to maximize the synergy with a gasoline HCCI engine” in SAE International Journal of Engines, Volume 4, 2011 JSTOR, pp. 1115-1126.
+- <b>Bielaczyc, Piotr and Woodburn, Joseph and Szczotka, Andrzej, ”Exhaust emissions of gaseous and solid pollutants measured over the NEDC, FTP-75 and WLTC chassis dynamometer driving cycles” in 2016 SAE Technical Paper.
+- <b>XiZhang and ChrisMi. Vehicle Power Management: Modeling, Control and Optimization, Springer, London,2011.
+
 
 <!--
  ```diff
